@@ -1,0 +1,29 @@
+{
+  "name": "is-stop-words",
+  "version": "1.0.0",
+  "description": "A package to check if a word is a stop word",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonhimpfen/is-stop-words.git"
+  },
+  "author": "Brandon Himpfen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonhimpfen/is-stop-words/issues"
+  },
+  "homepage": "https://github.com/brandonhimpfen/is-stop-words#readme",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "stop",
+    "word",
+    "stop",
+    "words",
+    "stop",
+    "word",
+    "words",
+    "seo"
+  ]
+}
